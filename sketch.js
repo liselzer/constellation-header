@@ -84,7 +84,7 @@ let nodes = [
   { label: "UI/UX ENGINEER", x: 680, y: 420 },
   { label: "CAKE BAKER", x: 320, y: 440 },
   { label: "STATIONARY ADDICT", x: 450, y: 520 },
-  { label: "MITSKI HOARDER", x: 560, y: 600 }
+  { label: "SMISKI HOARDER", x: 560, y: 600 }
 ];
 
 // constellation edges (order matters for animation)
