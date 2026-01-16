@@ -58,13 +58,12 @@ function getTransform() {
   let bounds = getBounds();
 
   // tweak these to taste
-  let padding = 40;
+  let padding = 80;
 
   let scaleFactor = min(
     (width - padding) / bounds.width,
     (height - padding) / bounds.height
   );
-  scaleFactor *= 1.1;
 
 
   // center based on VISUAL bounds center (includes labels)
