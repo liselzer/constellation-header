@@ -59,7 +59,7 @@ function setup() {
 
 
 function draw() {
-  background(247, 246, 243);
+  background(2255);
 
   detectHover();
 
