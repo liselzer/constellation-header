@@ -64,7 +64,7 @@ function getTransform() {
     (width - padding) / bounds.width,
     (height - padding) / bounds.height
   );
-  scaleFactor *= 1.35;
+  scaleFactor *= 1.1;
 
 
   // center based on VISUAL bounds center (includes labels)
