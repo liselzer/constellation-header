@@ -58,7 +58,7 @@ function getTransform() {
   let bounds = getBounds();
 
   // tweak these to taste
-  let padding = 150;
+  let padding = 110;
 
   let scaleFactor = min(
     (width - padding) / bounds.width,
